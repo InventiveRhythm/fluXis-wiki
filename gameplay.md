@@ -21,16 +21,16 @@ float accuracy = ratedNotes / totalNotes * 100;
 
 fluXis has following timing windows for each judgement:
  
-| Judgement | Regular Notes/LN starts | LN Releases |
+| Judgement | Hit Timing | Release Timing |
 | --------- | ----------------------- | ----------- |
 | ![](https://singlecolorimage.com/get/00C3FF/10x10) Flawless | ±16ms  | ±40ms  |
 | ![](https://singlecolorimage.com/get/22FFB5/10x10) Perfect  | ±40ms  | ±73ms  |
 | ![](https://singlecolorimage.com/get/4BFF3B/10x10) Great    | ±73ms  | ±103ms |
-| ![](https://singlecolorimage.com/get/FFF12B/10x10) Alright  | ±103ms | ------ |
+| ![](https://singlecolorimage.com/get/FFF12B/10x10) Alright  | ±103ms | ±127ms |
 | ![](https://singlecolorimage.com/get/F7AD40/10x10) Okay     | ±127ms | ------ |
-| ![](https://singlecolorimage.com/get/FF5555/10x10) Miss     | ±164ms | ±103ms |
+| ![](https://singlecolorimage.com/get/FF5555/10x10) Miss     | ±164ms | ------ |
 
-*If you release a long note later than "Great" it is counted as a miss*
+*If you release a long note too early or late, it will be judged as alright.*
 
 ## Scoring system
 
