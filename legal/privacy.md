@@ -10,6 +10,11 @@ When you register, we currently save:
 - Your password (encrypted with bcrypt)
 - Your Country (based on your IP address, which is not stored)
 
+### Logging in
+When logging in, we currently save:
+- Your IP address
+- Your user agent (browser, operating system, etc.)
+
 ### When updating your profile
 If you update your profile, (when optionally provided) we currently save:
 - Your avatar and banner
@@ -48,4 +53,4 @@ You can request a removal of your data by contacting us [here](mailto:me@flux.mo
 For security reasons, we will ask you to verify your identity to prevent other people from removing your data.
 Please note that this process is not automated and can take a while.
 
-*Last Updated: 2024-01-19*
+*Last Updated: 2024-01-23*
