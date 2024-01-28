@@ -8,7 +8,7 @@ When you register, we currently save:
 - Your username
 - Your email address
 - Your password (encrypted with bcrypt)
-- Your Country (based on your IP address, which is not stored)
+- Your Country (based on your IP address)
 
 ### Logging in
 When logging in, we currently save:
