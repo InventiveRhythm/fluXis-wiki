@@ -10,15 +10,15 @@ To open the Editor to edit an existing map, find the mapset in the Song Select s
 
 To begin creating the map, you first need to fill out all of the important information about the map.
 
-To add audio, click on Audio and choose the audio file you wish to use. The formats that are acceptable to use are .mp3, .wav, and .ogg.
+To add audio, click on Audio and choose the audio file you wish to use. The formats that are acceptable to use are `.mp3`, `.wav`, and `.ogg`.
 
-To add a background, click on Background and choose the background image you wish to use. Any .jpg and .png file should be supported.
+To add a background, click on Background and choose the background image you wish to use. Any `.jpg` and `.png` file should be supported.
 
-A cover is used to represent the icon of the map in Song Select. To add a cover, click on Cover and choose the cover image you wish to use. Any .jpg and .png are supported but an image close to a square shape is preferred.
+A cover is used to represent the icon of the map in Song Select. To add a cover, click on Cover and choose the cover image you wish to use. Any `.jpg` and `.png` are supported but an image close to a square shape is preferred.
 
-Videos can also be added to maps, the supported formats are: .mp4, .mov, .avi, .flv, .mpg, .wmv, and .m4v. These can be added by clicking Video, and then choosing the video you wish to use.
+Videos can also be added to maps, the supported formats are: `.mp4`, `.mov`, `.avi`, `.flv`, `.mpg`, `.wmv`, and `.m4v`. These can be added by clicking Video, and then choosing the video you wish to use.
 
-For Metadata, make sure to add the Title of the song, the Artist, yourself as the Mapper, and also give it a difficulty name under Difficulty. Sources should also be included if there are any. Make sure to include all sources separated with commas. Additionally, add tags to make your map more searchable in the Mapset Listing.
+For Metadata, make sure to add the Title of the song, the Artist, your username as the Mapper (The game does this automatically when you're signed in), and also give it a difficulty name under Difficulty. Sources should also be included if there are any. Make sure to include all sources separated with commas. Additionally, add tags to make your map more searchable in the Mapset Listing.
 
 Lastly, for Keys, choose the maximum keymode you wish to use for the map. If you're planning to use 1K - 8K, select 8 Keys.
 
