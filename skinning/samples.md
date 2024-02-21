@@ -1,6 +1,6 @@
 # Samples
 
-You can customize the sounds for when a key is pressed, you miss a note, etc.
+You can customize the sounds for when a key is pressed, you miss a note, etc. These particular sounds are located in `Samples/Gameplay/` of your skin folder.
 
 |Sample|Usage|
 |---|---|
