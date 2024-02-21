@@ -32,14 +32,14 @@ Also needed in the .json file are the judgement colours. These decide what colou
 
 The default colours for each judgement are as follows:
 
-|Judgement|Old Defaults|New Defaults|
-|---|---|---|
-|Flawless|![](https://singlecolorimage.com/get/eafffc/10x10) #EAFFFC|![](https://singlecolorimage.com/get/00C3FF/10x10) #00C3FF|
-|Perfect|![](https://singlecolorimage.com/get/ffcd4a/10x10) #FFCD4A|![](https://singlecolorimage.com/get/22ffb5/10x10) #22FFB5|
-|Great|![](https://singlecolorimage.com/get/27f498/10x10) #27F498|![](https://singlecolorimage.com/get/4bff3b/10x10) #4BFF3B|
-|Alright|![](https://singlecolorimage.com/get/0eb0b9/10x10) #0EB0B9|![](https://singlecolorimage.com/get/fff12b/10x10) #FFF12B|
-|Okay|![](https://singlecolorimage.com/get/808080/10x10) #808080|![](https://singlecolorimage.com/get/f7ad40/10x10) #F7AD40|
-|Miss|![](https://singlecolorimage.com/get/f7314f/10x10) #F7314F|![](https://singlecolorimage.com/get/ff5555/10x10) #FF5555|
+|Judgement|Colour|
+|---|---|
+|Flawless|![](https://singlecolorimage.com/get/00C3FF/10x10) #00C3FF|
+|Perfect|![](https://singlecolorimage.com/get/22ffb5/10x10) #22FFB5|
+|Great|![](https://singlecolorimage.com/get/4bff3b/10x10) #4BFF3B|
+|Alright|![](https://singlecolorimage.com/get/fff12b/10x10) #FFF12B|
+|Okay|![](https://singlecolorimage.com/get/f7ad40/10x10) #F7AD40|
+|Miss|![](https://singlecolorimage.com/get/ff5555/10x10) #FF5555|
 
 ### Overrides
 Overrides allow you to set a different path for your elements, or use a single image in multiple elements. This helps with saving storage space as you don't have to use a duplicate image for a different element.
