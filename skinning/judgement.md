@@ -3,11 +3,11 @@ These are the files that determine what image shows up for each of the judgement
 
 |Filename|Judgement|
 |---|---|
-|`flawless.png`|Maximum Hit Judgement|
-|`perfect.png`|300 Hit Judgement|
-|`great.png`|200 Hit Judgement|
-|`alright.png`|100 Hit Judgement|
-|`okay.png`|50 Hit Judgement|
+|`flawless.png`|Flawless Hit Judgement|
+|`perfect.png`|Perfect Hit Judgement|
+|`great.png`|Great Hit Judgement|
+|`alright.png`|Alright Hit Judgement|
+|`okay.png`|Okay Hit Judgement|
 |`miss.png`|(should be self explanatory)|
 
-The color for the splashes can be changed via [skin.json](/wiki/skinning/json#judgement-colours) commands
+The colour for the splashes can be changed via the `judgements` section located in the [skin.json](/wiki/skinning/json#judgement-colours) file.
