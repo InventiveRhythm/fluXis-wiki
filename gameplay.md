@@ -10,7 +10,7 @@ The game judges how accurately you hit the notes and calculates your score based
 
 ## Accuracy
 
-The accuracy with which you hit notes is based on the amount of judgements you acquire while playing the map. Following formula calculates accuracy:
+The accuracy with which you hit notes is based on the amount of judgements you acquire while playing the map. The following formula calculates accuracy:
 
 ```cs
 int totalNotes = Flawless + Perfect + Great + Alright + Okay + Miss;
@@ -34,9 +34,9 @@ fluXis has following timing windows for each judgement:
 
 ## Scoring system
 
-This is how score is calculated:
+This is how score is calculated, in the form of C# code:
 
-```
+```cs
 private int getScore()
 {
     var scoreMultiplier = 1f + Mods.Sum(mod => mod.ScoreMultiplier - 1f);
