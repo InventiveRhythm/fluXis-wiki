@@ -23,7 +23,7 @@ For each keymode, the format is as follows (using 7K as an example):
 - `hit_position` decides how many pixels up from the bottom of the screen the hit position is.
 - `colors` tints the hit lighting of each individual column. The first entry will tint the lighting in the first lane from the left of the stage, the second entry will tint the second lane, and so on.
 
-This goes from 1K to 10K so all keymodes will need to be added.
+This goes from 4K to 8K so these keymodes will need to be added. You can optionally include the other keymodes, but these are not required.
 
 It's advised to keep the values the same between keymodes to avoid awkward looking transitions. These values will also scale all of the above images, so try to get the image width to match the column width in the .json file to make editing and setting the hit position easier.
 
