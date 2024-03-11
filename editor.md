@@ -1,5 +1,13 @@
 # Editor
 
+> This page is outdated and might not be accurate.
+>
+> Things for wiki editors to consider:
+> - Add a table of contents
+> - Split each tab into their own page
+> - Add images to the guide (with gifs when necessary)
+> - Explain each tool in the editor (maybe also in subpages)
+
 ## Accessing the Editor
 
 To open the Editor to begin editing a new map, simply click the Edit button found on the homepage.
