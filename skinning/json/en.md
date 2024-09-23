@@ -63,51 +63,71 @@ A general template of the entire `skin.json` is laid out for convenience.
   "1k": {
     "column_width": 132,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "2k": {
     "column_width": 126,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "3k": {
     "column_width": 120,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "4k": {
     "column_width": 114,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "5k": {
     "column_width": 108,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "6k": {
     "column_width": 102,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "7k": {
     "column_width": 96,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "8k": {
     "column_width": 90,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "9k": {
     "column_width": 84,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "10k": {
     "column_width": 78,
     "hit_position": 130,
+    "tint_notes": false,
+    "tint_lns": false,
     "colors": []
   },
   "judgements": {
@@ -117,6 +137,16 @@ A general template of the entire `skin.json` is laid out for convenience.
     "alright": "#FFF12B",
     "okay": "#F7AD40",
     "miss": "#FF5555"
+  },
+  "snap-colors": {
+    "1/3": "#FF5555",
+    "1/4": "#558EFF",
+    "1/6": "#8EFF55",
+    "1/8": "#FFE355",
+    "1/12": "#C655FF",
+    "1/16": "#55FFAA",
+    "1/24": "#FF55AA",
+    "1/48": "#BFBFBF"
   },
   "overrides": {}
 }
