@@ -46,7 +46,9 @@ The default colours for each judgement are as follows:
 |Miss|![](https://singlecolorimage.com/get/ff5555/10x10) #FF5555|
 
 ### Snap Colors
-Snap coloring is used to visually differentiate notes based on their snap distance. This coloring will be tinted on top of the note images, so it is recommended to use fully white skins when using this feature.
+Snap coloring is used to visually differentiate notes based on their snap distance.
+
+This coloring will be tinted on top of the notes, so it is recommended to use fully white images when using this feature.
 
 The default colors for each snap are as follows:
 
