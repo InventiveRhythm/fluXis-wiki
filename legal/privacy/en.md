@@ -1,5 +1,5 @@
 # Privacy Policy
-*Some parts might be missing or outdated. We are working on it.*
+Last Updated: 1st May 2025. [View History.](https://github.com/InventiveRhythm/fluXis-wiki/commits/main/legal/privacy/en.md)
 
 ## Data we collect and store
 
@@ -52,5 +52,3 @@ This means your current user data and token.
 You can request a removal of your data by contacting us [here](mailto:me@flux.moe).
 For security reasons, we will ask you to verify your identity to prevent other people from removing your data.
 Please note that this process is not automated and can take a while.
-
-*Last Updated: 2024-01-23*
