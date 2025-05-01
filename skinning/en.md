@@ -12,3 +12,7 @@ There are 8 different sections that go into each skin. The json file should be l
 -   [Samples](/wiki/skinning/samples)
 -   [Stage](/wiki/skinning/stage)
 -   [skin.json](/wiki/skinning/json)
+
+Skins can also provide an icon for the skin selection menu. This icon should be a PNG file named `icon.png` and placed in the root folder of the skin.
+
+Any images provided in the skin should NEVER exceed 4096x4096 pixels in size due to performance reasons.
