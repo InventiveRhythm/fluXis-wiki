@@ -6,6 +6,6 @@ Welcome to the fluXis Wiki. This is the place where you can find all the informa
 - [The Game Client](/wiki/client)
 - [Gameplay](/wiki/gameplay)
 - [Map Editor](/wiki/editor)
-- [Submitting and Ranking maps](/wiki/ranking)
+- [Submitting and Purifying maps](/wiki/ranking)
 - [Skinning your game](/wiki/skinning)
 - [Legal stuffs](/wiki/legal)
