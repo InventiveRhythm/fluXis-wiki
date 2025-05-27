@@ -15,8 +15,8 @@ Located in the `Samples/Gameplay` folder, these change the sounds for when a key
 | `hit.wav`          | Pressing a key.                                               |
 | `miss.wav`         | Missing a note.                                               |
 | `restart.wav`      | Restarting the game either via the pause menu or quick retry. |
-| `full_combo.wav`   | Finishing a map with no misses.                               |
-| `all_flawless.wav` | Finishing a map with only Flawless judgements.                |
+| `full-combo.wav`   | Finishing a map with no misses.                               |
+| `all-flawless.wav` | Finishing a map with only Flawless judgements.                |
 
 You can have multiple miss sounds, and the game will randomly pick one among all the samples you have put. Make sure the first four letters are "miss" in the file name, and whatever comes after will be ignored.
 
@@ -33,5 +33,5 @@ Located in `Samples/UI`, these change the sounds when hovering, clicking etc.
 | `select.wav`            | Pressing play in song select or when entering main menu. |
 | `hover.wav`             | Hovering over buttons or similar.                        |
 | `click.wav`             | Clicking on buttons or similar.                          |
-| `click_disabled.wav`    | Clicking on a button that is disabled.                   |
+| `click-disabled.wav`    | Clicking on a button that is disabled.                   |
 | `skin-select-click.wav` | Played when selecting the skin in settings.              |
