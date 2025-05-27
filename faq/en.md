@@ -6,7 +6,7 @@ Maps are located in the "Browse" tab, inside the main menu. Make sure you are lo
 
 ### Where can I find skins?
 
-Skins are shared in the [skins](https://discord.com/channels/994666749570076764/1158141048321749072) channel of the fluXis [Discord server.](https://discord.gg/XKNqkHzsr7)
+You can find skins in the game's [Steam Workshop page](https://steamcommunity.com/app/3440100/workshop/) and in the [skins](https://discord.com/channels/994666749570076764/1158141048321749072) channel of the fluXis [Discord server](https://discord.gg/XKNqkHzsr7).
 
 ### How do I make my own skins?
 
