@@ -1,8 +1,13 @@
 # Skinning
 
-To begin skinning, go to Settings -> Appearance -> Open fluXis folder, or navigate to `C:\Users\{username}\AppData\Roaming\fluXis\` and create a "Skins" folder.
+To begin skinning, go to Settings -> General -> Folders -> Open fluXis folder, or navigate to:
 
-There are 8 different sections that go into each skin. The json file should be located at the root folder of your skin, while all of the other sections should be in their respective folders.
+- Windows: `C:\Users\{username}\AppData\Roaming\fluXis\` 
+- Linux: `~/.local/share/fluXis/` 
+
+and create a folder named `skins`.
+
+There are 8 different sections that go into each skin. The JSON file should be located at the root folder of your skin, while all of the other sections should be in their respective folders.
 
 -   [Health](/wiki/skinning/health)
 -   [HitObjects](/wiki/skinning/hitobjects)
