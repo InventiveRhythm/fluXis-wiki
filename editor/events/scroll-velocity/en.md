@@ -1,6 +1,13 @@
 # Scroll Velocity
 
+> This page may be incomplete and might not be accurate.
+>
+> Things for wiki editors to consider:
+> - Add explaination for sv gimmicks
+
 Scroll Velocity, not to be confused with [Scroll Multiplier](/editor/events/scroll-multiplier/), multiplies the current scroll speed, changing its speed **before** the event time, meaning you can see its effect before triggering the event; Allowing for cool Gameplay gimmicks & visuals.
+
+location: Design Tab
 
 ## Multiplier
 
