@@ -7,6 +7,8 @@
 
 Scroll Velocity, not to be confused with [Scroll Multiplier](/editor/events/scroll-multiplier/), multiplies the current scroll speed, changing its speed **before** the event time, meaning you can see its effect before triggering the event; Allowing for cool Gameplay gimmicks & visuals.
 
+Can also be used with [Scroll Multiplier](/editor/events/scroll-multiplier/).
+
 location: Design Tab
 
 ## Multiplier
@@ -17,7 +19,7 @@ Multiplier Values ``> 1`` makes notes faster and spaced further from each other.
 
 ### Negative Multipliers
 
-Negative multiplier values reverses the direction of the scroll.
+Negative multiplier values reverse the direction of the scroll.
 
 Since they Reverse the direction of the scroll, they also offset the position of the notes appearing earlierer,
 However the [Time Offset](/editor/events/time-offset/) event is better suited for this.
