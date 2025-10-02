@@ -2,7 +2,8 @@
 
 Timing Points define the rhythm of your chart, affecting timing and by relation how fast it is. Timing Points are the most essential event for all charts.
 
-location: Charting Tab
+### Location
+- Charting Tab
 
 ## Timing
 

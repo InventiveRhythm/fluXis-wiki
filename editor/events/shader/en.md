@@ -8,7 +8,8 @@
 A special event that applies a fragment shader to the screen.
 Shaders are a fun way to upgrade a map's visuals.
 
-location: Design Tab
+### Location
+- Design Tab
 
 ## Properties
 
@@ -17,9 +18,9 @@ location: Design Tab
 | Parameter | Type | Description |
 | :--- | :--- | :--- |
 | **Time** | `Decimal` | The start time of the event, in milliseconds. |
-| **Animation Length** | `Decimal` | The duration of the animation in beats. |
+| **Animation Length** | `Decimal` | The duration of the animation, in beats. |
 | **Shader** | `Dropdown` | The shader to be applied to the screen. |
-| **Use Start Value** | `Slider` | Enables whether start value should be used. |
+| **Use Start Value** | `Toggle` | Enables whether start strength value should be used. |
 | **Start Strengh** | `Slider` | what strength the shader starts at. |
 | **End Strengh** | `Slider` | what strength the shader ends at. When `Use Start Value` is off it will be interpolated to from the previous event. |
 | **Easing** | `Dropdown` | The easing function used to interpolate between start and end values. |
