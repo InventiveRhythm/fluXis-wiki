@@ -33,7 +33,7 @@ Negative multiplier values reverse the direction of the scroll.
 | **Animation Length** | `Decimal` | The duration of the animation, in beats. |
 | **Multiplier** | `Decimal` | The speed to multiply scroll speed by. **Can** be negative or zero. |
 | **Easing** | `Dropdown` | The easing function used to interpolate between multipliers. |
-| **Group** | `Toggle Boxes` | Also known as `Lane Masks`. Affects what lane it should apply the scroll multiplier to |
+| **Group** | `Toggle Boxes` | Also known as `Lane Masks`. Affects what lane it should apply the scroll multiplier to. |
 
 ### Design
 Event color: `#c73673`

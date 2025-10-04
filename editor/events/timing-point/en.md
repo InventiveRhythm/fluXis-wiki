@@ -23,11 +23,11 @@ The Time Signature (e.g., 4/4, 3/4) defines the number of beats per measure. Mos
 
 ## Considerations
 
-When Changing Parameters, the notes placed will be desynced, a quick fix would be to go `Edit > Re-snap all notes`.
+- When Changing Parameters, the notes placed will be desynced, a quick fix would be to go `Edit > Re-snap all notes`.
 
-Re-snapping notes will choose your current selected notes and beat-snap down next to the timeline, so make sure you select the appropiate notes and beat-snap before re-snapping.
+    Re-snapping notes will choose your current selected notes and beat-snap down next to the timeline, so make sure you select the appropiate notes and beat-snap before re-snapping.
 
-If you don't have notes selected it will re-snap  all notes present in the chart.
+    If you don't have notes selected it will re-snap  all notes present in the chart.
 
 ## Properties
 
