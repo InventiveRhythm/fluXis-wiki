@@ -21,9 +21,9 @@ Allows for rotating all Playfields or specific Playfields around their origins (
 | **Time** | `Decimal` | The start time of the event, in milliseconds. |
 | **Animation Length** | `Decimal` | The duration of the animation, in beats. |
 | **Rotation** | `Decimal` | Rotate around playfield's center, in degrees. |
-| **Easing** | `Dropdown` | The easing function used to interpolate between positions. |
+| **Easing** | `Dropdown` | The easing function used to interpolate between rotations. |
 | **Player Index** | `Slider` | What Player to apply this event to (Only available in dual mode). |
-| **Subfield Index** | `Slider` | What playield should this event be applied to. |
+| **Subfield Index** | `Slider` | What playfield should this event be applied to. |
 
 ### Design
 Event color: `#8AF7A2`

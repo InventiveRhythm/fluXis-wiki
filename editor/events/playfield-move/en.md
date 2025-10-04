@@ -19,7 +19,7 @@ Allows for moving all Playfields or specific Playfields.
 | **Offset Z** | `Decimal` | The Depth of the Playfield (basically size) |
 | **Easing** | `Dropdown` | The easing function used to interpolate between positions. |
 | **Player Index** | `Slider` | What Player to apply this event to (Only available in dual mode). |
-| **Subfield Index** | `Slider` | What playield should this event be applied to. |
+| **Subfield Index** | `Slider` | What playfield should this event be applied to. |
 
 ### Design
 Event color: `#01FE55`
