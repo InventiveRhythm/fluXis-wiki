@@ -5,7 +5,9 @@
 > Things for wiki editors to consider:
 > - Add explaination for sv gimmicks
 
-Scroll Mutliplier, not to be confused with [Scroll Velocity](/editor/events/scroll-velocity/), multiplies the current scroll speed across a period of time, changing its speed **after** the event time, meaning its effect triggers only after passing it, Unlike [Scroll Velocity](/editor/events/scroll-velocity/) where you can see its effect before reaching the event.
+Not to be confused with [Scroll Velocity](/editor/events/scroll-velocity/).
+
+Scroll Mutliplier multiplies the current scroll speed across a period of time, changing its speed **after** the event time, meaning its effect triggers only after passing it, Unlike [Scroll Velocity](/editor/events/scroll-velocity/) where you can see its effect before reaching the event.
 
 Can also be used with [Scroll Velocity](/editor/events/scroll-velocity/).
 
