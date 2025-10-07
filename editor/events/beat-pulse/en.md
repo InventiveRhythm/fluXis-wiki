@@ -4,6 +4,9 @@ Not to be confused with [Pulse](/editor/events/pulse/).
 
 Zooms the screen in periods set by beat intervals.
 
+### Location
+- Design Tab
+
 ## How Zoom in % Works
 
 Beat Pulse does not have an easing parameter but, it uses ``OutQuint``.

@@ -4,6 +4,9 @@ Not to be confused with [Beat Pulse](/editor/events/beat-pulse/).
 
 Expands a white border around the edges of the screen.
 
+### Location
+- Design Tab
+
 ## How In % Works
 
 In % essentially means how much of the **beginning** animation will be used, basically the first the half of the animation aka the initial expansion. The other half is for reseting back to the original width (0px).

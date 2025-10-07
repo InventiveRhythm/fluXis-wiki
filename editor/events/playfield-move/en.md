@@ -2,6 +2,9 @@
 
 Allows for moving all Playfields or specific Playfields.
 
+### Location
+- Design Tab
+
 ## Considerations
 
 - Since all subfields start as invisible, when changing values for other playfields make sure you have them visible via [Layer Fade](/editor/events/layer-fade/).

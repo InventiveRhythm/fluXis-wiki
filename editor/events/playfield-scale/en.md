@@ -2,6 +2,9 @@
 
 Allows for scaling all Playfields or specific Playfields, either horizontally and/or vertically.
 
+### Location
+- Design Tab
+
 ## Considerations
 
 - Since all subfields start as invisible, when changing values for other playfields make sure you have them visible via [Layer Fade](/editor/events/layer-fade/).
