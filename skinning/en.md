@@ -26,7 +26,7 @@ skins
 
 ## Skin structure
 
-There are 8 different sections that go into each skin, with their respective folders.
+There are 8 different sections that go into each skin, with their respective folders and files.
 
 -   [Health](/wiki/skinning/health)
 -   [HitObjects](/wiki/skinning/hitobjects)
@@ -35,6 +35,7 @@ There are 8 different sections that go into each skin, with their respective fol
 -   [Receptor](/wiki/skinning/receptor)
 -   [Samples](/wiki/skinning/samples)
 -   [Stage](/wiki/skinning/stage)
+-   [skin.json](/wiki/skinning/json)
 
 To modify elements in that section, create a folder in the root of your skin with the name of that section.
 
