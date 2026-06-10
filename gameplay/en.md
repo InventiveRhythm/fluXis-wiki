@@ -14,12 +14,6 @@ The accuracy with which you hit notes is based on the amount of judgements you a
 
 ::tab-group
 
-:::tab-panel{title="Mathematical"}
-$$total = flawless + perfect + great + alright + okay + miss$$
-$$rated = flawless + perfect * 0.98 + great * 0.65 + alright * 0.25 + okay * 0.1$$
-$$accuracy = (rated / flawless) * 100$$
-:::
-
 :::tab-panel{title="C#"}
 
 ```cs
@@ -53,18 +47,12 @@ Score is calculated by adding the multipliers of the selected mods together, and
 
 ::tab-group
 
-:::tab-panel{title="Mathematical"}
-$$multiplier = 1 + \sum_{mods}^{m} (m.mult - 1)$$
-$$max = multiplier * 1000000$$
-$$score = (accuracy * (max * 0.9)) + ((combo / maxcombo) * (max * 0.1))$$
-:::
-
 :::tab-panel{title="C#"}
 
 ```cs
-float multiplier = mods.Sum(m => m.Multiplier - 1f);
+float multiplier = 1f + mods.Sum(m => m.Multiplier - 1f);
 float max = multiplier * 1000000;
-float score = (accuracy * (max * 0.9f)) + ((combo / maxcombo) * (max * 0.1))
+float score = (accuracy / 100) * (max * 0.9f) + (combo / maxcombo) * (max * 0.1)
 ```
 
 :::
